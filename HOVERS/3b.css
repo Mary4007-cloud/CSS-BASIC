@@ -1,0 +1,22 @@
+body{
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    background-color: yellow;
+    transition-delay: 7ms;
+    transition-duration:4s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    border-radius: 20px;
+}
+button:hover{
+    height: 300px;
+    background-color: #0f91e6;
+    transform: rotate(360deg);
+}
