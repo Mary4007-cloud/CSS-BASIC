@@ -1,0 +1,28 @@
+.amazon{
+    color: rgb(0, 113, 133);
+}
+.money{
+    color: rgb(0, 119, 20);
+}
+.cart{
+    padding: 10px;
+    margin: 5px;
+     height: 35px;
+    width: 120px;
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.buy{
+     height: 35px;
+    width: 100px;
+    background-color: rgb(255, 164, 20);
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+.github{
+    height: 40px;
+    width: 130px;
+    background-color:rgb(46, 164, 79);
+    color: white;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+}
