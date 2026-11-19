@@ -1,0 +1,22 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:none;
+    overflow:hidden
+    transform: sacle(1.5);
+    padding: 50px;
+
+}
+button{
+    text-shadow: -15px -10px 2px white;
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    text-transform: uppercase;
+    color: white;
+    text-bold: 900px;
+    font-size: 10px
+    display: flex;
+
+}
