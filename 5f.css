@@ -1,0 +1,25 @@
+.money{
+    font-weight: 550;
+    font-family: arial;
+    font-size: 35px;
+}
+
+.currency{
+    font-family: arial;
+    color: gray;
+}
+
+.today{
+    font-family: arial;
+    color: green;
+}
+
+.hours{
+    font-family: arial;
+    color: grey;
+}
+
+.after{
+    font-family: arial;
+    color: red;
+}
