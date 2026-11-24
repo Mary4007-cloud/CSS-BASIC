@@ -1,0 +1,7 @@
+.blue{background-color: lightblue;}
+.pink{background-color: lightpink;}
+
+.grid-a{
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
