@@ -1,0 +1,21 @@
+.pro{
+    font-family: verdana;
+    font-size: 15px;
+    color: gray;
+}
+p{
+    font-family: verdana;
+    font-size: 17px;
+    line-height: 28px;
+}
+
+.get{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    font-size: 17px;
+    cursor: pointer;
+
+}

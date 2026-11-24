@@ -1,0 +1,23 @@
+.bootstrap{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(121, 82, 179);
+    color: white;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center ;
+}
+.Bootstrap{
+
+    height: 40px;
+    width: 150px;
+    background-color: white ;
+    color:rgb(92, 90, 90) ;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+}
