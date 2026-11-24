@@ -1,0 +1,11 @@
+.survey{
+    width: 470px;
+    padding: 25px 25px 20px;
+    border: 1px solid gray;
+    font-family: arial, sans-serif;
+}
+
+.survey p{
+    font-size: 20px;
+    margin: 0 0 15px;
+}
