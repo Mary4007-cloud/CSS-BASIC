@@ -1,0 +1,39 @@
+. {box-sizing: border-box;}
+
+.list{
+    width: 700px;
+    padding: 20px;
+    font-family: arial, sans-serif;
+}
+
+.video{margin-bottom: 15px;}
+
+.thumb{
+    display: inline-block;
+    vertical-align: top;
+    width: 265px;
+    height: 148px;
+    object-fit: cover;
+}
+
+.info{
+    display: inline-block;
+    vertical-align: top;
+    width: 280px;
+    margin-left: 12px;
+}
+
+.title{
+    margin: 0 0 14px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.meta{
+    margin: 0 0 6px;
+    font-size: 17px;
+    color: gray;
+}
+
+.

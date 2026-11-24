@@ -1,0 +1,39 @@
+.ride{
+    width: 552px;
+    padding: 10px;
+}
+
+.ride h1{
+    font-size: 52px;
+    font-weight: normal;
+    margin: 0 0 40px;
+}
+
+.field{
+    display: block;
+    width: 100%;
+    padding: 22px 30px;
+    font-size: 18px;
+    background-color: #f0f0f0;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.now, .later{
+    display: inline-block;
+    padding: 20px;
+    font-size: 18px;
+    border: none;
+    margin-top: 40px;
+
+}
+
+.now{
+    background-color: black;
+    color: white;
+}
+
+.later{
+    background-color: #eee;
+    margin-left: 25px;
+}
