@@ -1,0 +1,6 @@
+.c{
+    width: 200px;
+    border-radius: 100px;
+    object-position: center;
+    object-fit: cover;
+}
