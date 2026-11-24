@@ -1,0 +1,15 @@
+
+.back{
+    padding: 5px;
+    margin-inline: 5px;
+}
+
+.next{
+    padding: 5px;
+    margin-inline: 5px;
+}
+.page{
+    display: flex;
+    align-items: center;
+    gap: 8px
+}
