@@ -1,7 +1,41 @@
+.page{
+    background-color: white;
+    padding: 20px 20px 45px;
+}
+
 .nav{
     display: flex;
     font-size: 22px;
     font-weight: bold;
     padding: 8px 18px;
     border-radius: 20px;
+    align-items: center;
+    background-color: purple;
+    padding: 15px 20px;
+}
+
+.home{
+    width: 160px;
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.search{
+    flex: 1;
+    padding: 14px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 25px;
+    margin-right: 240px;
+}
+
+.download{
+    padding: 12px 22px;
+    font-size: 22px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+
 }
