@@ -1,0 +1,26 @@
+body{
+    margin: 5px;
+    padding: 4px;
+    display: flex;
+}
+.subscribe{
+    padding: 10px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+}
+
+.join{
+    padding: 10px;
+    margin: 20px;
+    background-color: white;
+    color: rgb(69, 69, 172);
+    border-color: rgb(110, 110, 188);
+}
+.tweet{
+    padding: 15px;
+    margin: 20px;
+    background-color: rgb(108, 105, 238);
+    color: white;
+    border-radius: 20px;
+}
