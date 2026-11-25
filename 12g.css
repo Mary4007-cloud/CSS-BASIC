@@ -1,0 +1,48 @@
+.list{
+    width: 600px;
+    padding: 20px;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.avatar{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.text{
+    flex: 1;
+    margin-left: 20px;
+}
+
+.text p{
+    margin: 0 0 6px;
+    font-size: 22px;
+    color: gray;
+}
+
+.text .small{
+    font-size: 19px;
+    color: #222;
+}
+
+.text .name{
+    font-weight: bold;
+    color: #222;
+}
+
+.user button{
+    padding: 14px 22px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background-color: #4a99e9;
+    border: none;
+    border-radius: 6px;
+}

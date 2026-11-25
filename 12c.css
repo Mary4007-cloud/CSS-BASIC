@@ -1,0 +1,6 @@
+.pink{background-color: pink;}
+
+.flex-c{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.pink{background-color: pink;}
+
+.flex-d{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    border: 1px solid gray;
+}

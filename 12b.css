@@ -1,0 +1,10 @@
+.blue{background-color: blue;}
+.pink{background-color: pink;}
+
+.flex-b{display: flex;}
+
+.flex-b .blue:first-child{width: 50px;}
+
+.flex-b .pink{flex: 1;}
+
+.flex-b .blue:last-child{width: 75px;}
